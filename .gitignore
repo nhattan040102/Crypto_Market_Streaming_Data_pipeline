@@ -15,3 +15,7 @@ Thumbs.db
 
 # VENV
 lib
+
+# airflow folder
+plugins
+logs
