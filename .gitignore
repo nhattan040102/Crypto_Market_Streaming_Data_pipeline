@@ -1,0 +1,17 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyz
+*.pyw
+*.pyc
+
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VENV
+lib
