@@ -22,3 +22,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 - Docker
 
 # Usage
+1. Clone the github repo
+2. Navigate to the current project
+3. Build image from Dockerfile
+4. Run docker-compose to start the service
