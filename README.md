@@ -23,6 +23,18 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 # Usage
 1. Clone the github repo
+```bash
+    git clone https://github.com/nhattan040102/Crypto_Market_Streaming_Data_pipeline.git
+```
 2. Navigate to the current project
+```bash
+    cd Crypto_Market_Streaming_Data_pipeline
+```
 3. Build image from Dockerfile
+```bash
+    docker build -t my_airflow_img .
+```
 4. Run docker-compose to start the service
+```bash
+    docker compose up -d --build
+```
